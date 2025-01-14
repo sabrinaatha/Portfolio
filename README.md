@@ -23,6 +23,6 @@ Hello! I'm Tataa, a passionate software developer and data analyst with a backgr
 - Tools: Git, Docker, AWS, Firebase
 
 ## Contact
-Feel free to reach out to me via [email@example.com](mailto:sabrinaathashania@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusernamehttps://www.linkedin.com/in/sabrina-atha-shania/).
+Feel free to reach out to me via [sabrinaathashania@gmail.com](mailto:sabrinaathashania@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusernamehttps://www.linkedin.com/in/sabrina-atha-shania/).
 
 Thank you for visiting my portfolio!
